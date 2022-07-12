@@ -1,6 +1,6 @@
 # send-payments
 Description --
-Fully function Dapp similar to Venmo that allows users to send Rinkby ether to any address with attached messages and related gifs.
+Fully function Dapp similar to Venmo that allows users to send Rinkby ether to any address with attached messages and related gifs. Ckeck out the live site at https://send-payments.vercel.app/
 
 Visuals
 ![Screen Shot 2022-07-12 at 2 17 59 PM](https://user-images.githubusercontent.com/101055712/178597360-b570bbdc-0ade-44ee-b89a-6209109c4c3d.png)
